@@ -30,11 +30,43 @@
 		"New art to adorn Blind Wolf by renowned Russian artist SoVka",
 		"Roebuck Found in Pile of Ruined Cheetahs<br>Quoted as Only Being Able to Say \"pergante\""
 	],
+	"Custom Headline": "",
+	"World Toggles": {
+		"Birthday": false,
+		"Party": false
+	},
 	"Staff": [
-		"DisZ", "WonderinWendigo"
+		"DisZ",
+		"WonderinWendigo"
 	],
-	"Patrons": {
-		"DisZ": "3",
-		"majorvictory": "3"
+	"Permissions": {
+		"Groups": {
+			"admin": ["*"],
+			"staff": ["Birthday", "Party", "video", "patron 1", "patron 2", "patron 3"],
+			"Patrons 1": ["patron 1"],
+			"Patrons 2": ["patron 2"],
+			"Patrons 3": ["patron 3"],
+			"visitor": []
+		},
+		"Users": {
+			"DisZ": ["admin"],
+			"MajorVictory": ["admin"],
+			"WonderinWendigo": ["staff"],
+			"Patrons 3": [
+				"",
+				"",
+				""
+			],
+			"Patrons 2": [
+				"",
+				"",
+				""
+			],
+			"Patrons 1": [
+				"",
+				"",
+				""
+			]
+		}
 	}
 }
