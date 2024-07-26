@@ -35,38 +35,26 @@
 		"Birthday": false,
 		"Party": false
 	},
-	"Staff": [
-		"DisZ",
-		"WonderinWendigo"
-	],
 	"Permissions": {
 		"Groups": {
-			"admin": ["*"],
-			"staff": ["Birthday", "Party", "video", "patron 1", "patron 2", "patron 3"],
-			"Patrons 1": ["patron 1"],
-			"Patrons 2": ["patron 2"],
-			"Patrons 3": ["patron 3"],
-			"visitor": []
+			"Admin": ["*"],
+			"Staff": ["Birthday", "Party", "video", "patron 1", "patron 2", "patron 3"],
+			"Patrons1": ["patron1"],
+			"Patrons2": ["patron2"],
+			"Patrons3": ["patron3"],
+			"Visitor": []
 		},
 		"Users": {
-			"DisZ": ["admin"],
-			"MajorVictory": ["admin"],
-			"WonderinWendigo": ["staff"],
-			"Patrons 3": [
-				"",
-				"",
-				""
-			],
-			"Patrons 2": [
-				"",
-				"",
-				""
-			],
-			"Patrons 1": [
-				"",
-				"",
-				""
-			]
+			"DisZ": "Admin",
+			"MajorVictory": "Admin",
+			
+			"WonderinWendigo": "Staff",
+
+			"FooBar" : "Patrons3",
+
+			"BarBaz" : "Patrons2",
+
+			"BarBar" : "Patrons1"
 		}
 	}
 }
