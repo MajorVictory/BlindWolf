@@ -38,16 +38,16 @@
 	"Permissions": {
 		"Groups": {
 			"Admin": ["*"],
-			"Staff": ["Birthday", "Party", "video", "patron 1", "patron 2", "patron 3"],
-			"Patrons1": ["patron1"],
-			"Patrons2": ["patron2"],
-			"Patrons3": ["patron3"],
+			"Staff": ["Birthday", "Party", "Video", "Patron1", "Patron2", "Patron3"],
+			"Patrons1": ["Patron1"],
+			"Patrons2": ["Patron2"],
+			"Patrons3": ["Patron3"],
 			"Visitor": []
 		},
 		"Users": {
 			"DisZ": "Admin",
 			"MajorVictory": "Admin",
-			
+
 			"WonderinWendigo": "Staff",
 
 			"FooBar" : "Patrons3",
