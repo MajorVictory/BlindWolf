@@ -49,6 +49,7 @@
 			"majorvictory": "Admin",
 
 			"WonderinWendigo": "Staff",
+			"JaxFox": "Staff",
 
 			"FooBar" : "Patrons3",
 
