@@ -46,7 +46,7 @@
 		},
 		"Users": {
 			"DisZ": "Admin",
-			"MajorVictory": "Admin",
+			"majorvictory": "Admin",
 
 			"WonderinWendigo": "Staff",
 
