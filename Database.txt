@@ -4,7 +4,7 @@
 		"Jax Crowned New Bork's Most Eligible Bachelor of the Year",
 		"Unexpected Item Tied to Rum-Running Scandal in New Bork",
 		"DisZ Bests Rival in a Lethal Drinking Duel in New Bork",
-		"Blind Wolf, Founded in 1922, Continues to Skirt Prohibition Laws<br>Head of the agency claims \"No wrongdoing found\"",
+		"Blind Wolf, Founded in 1922, Continues to Skirt Prohibition Laws, Agency Leader claims \"No Wrongdoing Found\"",
 		"Mayor of New Bork Found Unconscious on Blind Wolf’s Steps",
 		"Stained Glass Prices Skyrocket, Driven by Blind Wolf's Owner DisZ",
 		"The Jewel of New Bork: Crystal Phallic Vanishes from The Barkopolitan Museum",
@@ -38,10 +38,11 @@
 	"Permissions": {
 		"Groups": {
 			"Admin": ["*"],
-			"Staff": ["Birthday", "Party", "Video", "Patron1", "Patron2", "Patron3"],
+			"Staff": ["Birthday", "Party", "Video", "Patron1", "Patron2", "Patron3", "Patron4"],
 			"Patrons1": ["Patron1"],
-			"Patrons2": ["Patron2"],
-			"Patrons3": ["Patron3"],
+			"Patrons2": ["Patron1", "Patron2"],
+			"Patrons3": ["Patron1", "Patron2", "Patron3"],
+			"Patrons4": ["Patron1", "Patron2", "Patron3", "Patron4"],
 			"Visitor": []
 		},
 		"Users": {
@@ -50,12 +51,41 @@
 
 			"WonderinWendigo": "Staff",
 			"JaxFox": "Staff",
+			"Unexpected Item": "Staff",
+			"Roebuck": "Staff",
+			"Whines": "Staff",
+			"Afevis": "Staff",
+			"GryGry": "Staff",
+			"Kainaan ღ": "Staff",
+			"Korron": "Staff",
+			"~Shadow Slick~": "Staff",
+			"Robby Angel": "Staff",
+			"Wesacer": "Staff",
+			"Xanaecor": "Staff",
+			"Aro Poss": "Staff",
 
-			"FooBar" : "Patrons3",
+			"Certando" : "Patrons4",
+			"Drakonal" : "Patrons4",
+			//"JaxFox" : "Patrons4",
+			"mavrickshuey" : "Patrons4",
+			"Magmatic" : "Patrons4",
+			"ProtoMal" : "Patrons4",
+			"Geeknificent" : "Patrons4",
+			"OshionWolf" : "Patrons4",
+			"Rocki~" : "Patrons4",
+			"Selvakor" : "Patrons4",
+			"Sgt․Duck" : "Patrons4",
+			//"Tristen" : "Patrons4",
 
-			"BarBaz" : "Patrons2",
+			"Feldrick" : "Patrons3",
+			"Lord Tremor" : "Patrons3",
 
-			"BarBar" : "Patrons1"
+			//"Aro Poss" : "Patrons2",
+			"Jay_B19" : "Patrons2",
+			"WaywardPyre" : "Patrons2",
+
+			"ceraso" : "Patrons1"
+			//"WonderinWendigo" : "Patrons1",
 		}
 	}
 }
