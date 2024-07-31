@@ -38,7 +38,8 @@
 	"Permissions": {
 		"Groups": {
 			"Admin": ["*"],
-			"Staff": ["Birthday", "Party", "Video", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Staff": ["Birthday", "Party", "Video", "Stage", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Performer": ["Patron1", "Video", "Stage"],
 			"Patrons1": ["Patron1"],
 			"Patrons2": ["Patron1", "Patron2"],
 			"Patrons3": ["Patron1", "Patron2", "Patron3"],
@@ -48,6 +49,9 @@
 		"Users": {
 			"DisZ": "Admin",
 			"majorvictory": "Admin",
+
+			"Saschiba": "Performer",
+			//"performer dude": "Performer",
 
 			"WonderinWendigo": "Staff",
 			"JaxFox": "Staff",
