@@ -38,13 +38,13 @@
 	"Permissions": {
 		"Groups": {
 			"Admin": ["*"],
-			"Staff": ["Birthday", "Party", "Video", "Stage", "Patron1", "Patron2", "Patron3", "Patron4"],
-			"Performer": ["Patron1", "Video", "Stage"],
-			"Patrons1": ["Patron1"],
-			"Patrons2": ["Patron1", "Patron2"],
-			"Patrons3": ["Patron1", "Patron2", "Patron3"],
-			"Patrons4": ["Patron1", "Patron2", "Patron3", "Patron4"],
-			"Visitor": []
+			"Staff": ["Birthday", "Party", "Video", "Stage", "TeleportStaff", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Performer": ["Teleport", "Patron1", "Video", "Stage"],
+			"Patrons1": ["Teleport", "Patron1"],
+			"Patrons2": ["Teleport", "Patron1", "Patron2"],
+			"Patrons3": ["Teleport", "Patron1", "Patron2", "Patron3"],
+			"Patrons4": ["Teleport", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Visitor": ["Teleport"]
 		},
 		"Users": {
 			"DisZ": "Admin",
@@ -68,9 +68,10 @@
 			"Xanaecor": "Staff",
 			"Aro Poss": "Staff",
 
+			//"DisZ" : "Patrons4",
+			//"JaxFox" : "Patrons4",
 			"Certando" : "Patrons4",
 			"Drakonal" : "Patrons4",
-			//"JaxFox" : "Patrons4",
 			"mavrickshuey" : "Patrons4",
 			"Magmatic" : "Patrons4",
 			"ProtoMal" : "Patrons4",
@@ -79,7 +80,6 @@
 			"Rocki~" : "Patrons4",
 			"Selvakor" : "Patrons4",
 			"Sgt․Duck" : "Patrons4",
-			//"Tristen" : "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
@@ -88,8 +88,8 @@
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
 
-			"ceraso" : "Patrons1"
 			//"WonderinWendigo" : "Patrons1",
+			"ceraso" : "Patrons1"
 		}
 	}
 }
