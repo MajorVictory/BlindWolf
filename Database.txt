@@ -51,7 +51,6 @@
 			"majorvictory": "Admin",
 
 			"Saschiba": "Performer",
-			//"performer dude": "Performer",
 
 			"WonderinWendigo": "Staff",
 			"JaxFox": "Staff",
@@ -68,8 +67,6 @@
 			"Xanaecor": "Staff",
 			"Aro Poss": "Staff",
 
-			//"DisZ" : "Patrons4",
-			//"JaxFox" : "Patrons4",
 			"Certando" : "Patrons4",
 			"Drakonal" : "Patrons4",
 			"mavrickshuey" : "Patrons4",
@@ -84,11 +81,9 @@
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
 
-			//"Aro Poss" : "Patrons2",
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
 
-			//"WonderinWendigo" : "Patrons1",
 			"ceraso" : "Patrons1"
 		}
 	}
