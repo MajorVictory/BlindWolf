@@ -84,7 +84,8 @@
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
 
-			"ceraso" : "Patrons1"
+			"ceraso" : "Patrons1",
+			"Gunmaster929": "Patrons1"
 		}
 	}
 }
