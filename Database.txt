@@ -4,21 +4,21 @@
 		"Jax Crowned New Bork's Most Eligible Bachelor of the Year",
 		"Unexpected Item Tied to Rum-Running Scandal in New Bork",
 		"DisZ Bests Rival in a Lethal Drinking Duel in New Bork",
-		"Blind Wolf, Founded in 1922, Continues to Skirt Prohibition Laws, Agency Leader claims \"No Wrongdoing Found\"",
+			"Blind Wolf, Founded in 1922, Continues to Skirt Prohibition Laws, Agency Leader claims \"No Wrongdoing Found\"",
 		"Mayor of New Bork Found Unconscious on Blind Wolf’s Steps",
 		"Stained Glass Prices Skyrocket, Driven by Blind Wolf's Owner DisZ",
 		"The Jewel of New Bork: Crystal Phallic Vanishes from The Barkopolitan Museum",
-		"Enchantress Whines Breaks a Dozen Hearts in a Single Night",
+			"Enchantress Whines Breaks a Dozen Hearts in a Single Night",
 		"Police Hunt for Smugglers Afevis and Robby Angel, Purveyors of Canadian Whisky",
 		"Underworld Protégé Gry Gry Linked to String of Furniture Murders",
 		"Kainnaan, aka Meow Meow Walrus, Sinks Teeth into Speakeasy Scene",
 		"Major, Suspected Mastermind, Faces Allegations as New Bork's Underworld Architect",
 		"Rival Speakeasy Closes Its Doors for Good on Opening Night",
-		"Police Investigate Secret Ring of Patrons Behind Blind Wolf Operations",
+			"Police Investigate Secret Ring of Patrons Behind Blind Wolf Operations",
 		"Local Charmer Wesacer to Face Multiple Allegations of Harem Ownership",
-		"Renowned Detective Xanaecor Arrives in New Bork for Private Business with DisZ",
+			"Renowned Detective Xanaecor Arrives in New Bork for Private Business with DisZ",
 		"New Bork Dissident Aro Barely Escapes the Mob After Cheating in Poker Game",
-		"Elusive Gang Member Shadow Slick Vanishes Again After Multiple Police Chases",
+			"Elusive Gang Member Shadow Slick Vanishes Again After Multiple Police Chases",
 		"New Bork Statesman Korron Exposed as Frequent Patron of Local Speakeasy",
 		"Rumor Has It: Blind Wolf Expands Operations to Florida Following Recent Land Acquisitions",
 		"Blind Wolf Invites All Creators to Monthly Meetup—Every First Sunday of the Month",
@@ -28,7 +28,7 @@
 		"WonderinWendigo’s New Hideout Under Investigation: Blind Wolf’s Florida Expansion Raises Eyebrows",
 		"Blind Wolf continues to expand in size and number of members through the year",
 		"New art to adorn Blind Wolf by renowned Russian artist SoVka",
-		"Roebuck Found in Pile of Ruined Cheetahs<br>Quoted as Only Being Able to Say \"pergante\""
+			"Roebuck Found in Pile of Ruined Cheetahs<br>Quoted as Only Being Able to Say \"pergante\""
 	],
 	"Custom Headline": "",
 	"World Toggles": {
@@ -78,6 +78,8 @@
 			"Selvakor" : "Patrons4",
 			"Sgt․Duck" : "Patrons4",
 			"MoonlightReq" : "Patrons4",
+			"Tempy ღ": "Patrons4",
+			"Gunmaster929": "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
@@ -86,7 +88,7 @@
 			"WaywardPyre" : "Patrons2",
 
 			"ceraso" : "Patrons1",
-			"Gunmaster929": "Patrons1"
+			"NPC_L30N": "Patrons1"
 		}
 	}
 }
