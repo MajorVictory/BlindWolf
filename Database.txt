@@ -80,6 +80,7 @@
 			"MoonlightReq" : "Patrons4",
 			"Tempy ღ": "Patrons4",
 			"Gunmaster929": "Patrons4",
+			"Quentin Coyote": "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
