@@ -2,7 +2,7 @@
 	"Headlines": [
 		"Wonderin' Wendigo Eludes the Feds Again Amidst New Cannibal Scare",
 		"Jax Crowned New Bork's Most Eligible Bachelor of the Year",
-		"Unexpected Item Tied to Rum-Running Scandal in New Bork",
+			"Unexpected Item Tied to Rum-Running Scandal in New Bork",
 		"DisZ Bests Rival in a Lethal Drinking Duel in New Bork",
 			"Blind Wolf, Founded in 1922, Continues to Skirt Prohibition Laws, Agency Leader claims \"No Wrongdoing Found\"",
 		"Mayor of New Bork Found Unconscious on Blind Wolf’s Steps",
@@ -87,6 +87,7 @@
 
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
+			"Mitton Toque" : "Patrons2",
 
 			"ceraso" : "Patrons1",
 			"NPC_L30N": "Patrons1"
