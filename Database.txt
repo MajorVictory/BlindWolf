@@ -1,7 +1,7 @@
 {
 	"Headlines": [
 		"Wonderin' Wendigo Eludes the Feds Again Amidst New Cannibal Scare",
-		"Jax Crowned New Bork's Most Eligible Bachelor of the Year",
+			"Jax Crowned New Bork's Most Eligible Bachelor of the Year",
 			"Unexpected Item Tied to Rum-Running Scandal in New Bork",
 		"DisZ Bests Rival in a Lethal Drinking Duel in New Bork",
 			"Blind Wolf, Founded in 1922, Continues to Skirt Prohibition Laws, Agency Leader claims \"No Wrongdoing Found\"",
@@ -81,9 +81,11 @@
 			"Tempy ღ": "Patrons4",
 			"Gunmaster929": "Patrons4",
 			"Quentin Coyote": "Patrons4",
+			"MrBunnyMango": "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
+			"ᴾᴼᵀᴬᵀᴼ": "Patrons3",
 
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
