@@ -85,7 +85,7 @@
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
-			"ᴾᴼᵀᴬᵀᴼ": "Patrons3",
+			"PlushiePotato": "Patrons3",
 
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
