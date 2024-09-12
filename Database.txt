@@ -82,10 +82,13 @@
 			"Gunmaster929": "Patrons4",
 			"Quentin Coyote": "Patrons4",
 			"MrBunnyMango": "Patrons4",
+			"Auxl Wuffy": "Patrons4",
+			"MrBunnyMango": "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
 			"PlushiePotato": "Patrons3",
+			"FIEARtheWolfdog": "Patrons3",
 
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
