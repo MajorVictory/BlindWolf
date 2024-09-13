@@ -20,7 +20,7 @@
 		"New Bork Dissident Aro Barely Escapes the Mob After Cheating in Poker Game",
 			"Elusive Gang Member Shadow Slick Vanishes Again After Multiple Police Chases",
 		"New Bork Statesman Korron Exposed as Frequent Patron of Local Speakeasy",
-		"Rumor Has It: Blind Wolf Expands Operations to Florida Following Recent Land Acquisitions",
+			"Rumor Has It: Blind Wolf Expands Operations to Florida Following Recent Land Acquisitions",
 		"Blind Wolf Invites All Creators to Monthly Meetup—Every First Sunday of the Month",
 		"Blind Wolf to Host Grandest Art Expo New Bork Has Ever Seen in the next Year",
 		"Whispers of a Secret Society: Elite Group Spotted at New Bork’s Most Exclusive Venues",
@@ -83,7 +83,6 @@
 			"Quentin Coyote": "Patrons4",
 			"MrBunnyMango": "Patrons4",
 			"Auxl Wuffy": "Patrons4",
-			"MrBunnyMango": "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
