@@ -71,7 +71,6 @@
 			"Melon-the-wolf": "Staff",
 
 			"Certando" : "Patrons4",
-			"Drakonal" : "Patrons4",
 			"mavrickshuey" : "Patrons4",
 			"Magmatic" : "Patrons4",
 			"ProtoMal" : "Patrons4",
