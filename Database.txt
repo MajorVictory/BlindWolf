@@ -90,6 +90,7 @@
 			"PlushiePotato": "Patrons3",
 			"FIEARtheWolfdog": "Patrons3",
 			"FrostMoonKnight": "Patrons3",
+			"RuanFox": "Patrons3",
 
 			"Jay_B19" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
