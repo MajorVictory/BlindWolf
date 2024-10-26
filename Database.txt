@@ -38,7 +38,7 @@
 	"Permissions": {
 		"Groups": {
 			"Admin": ["*"],
-			"Staff": [ "StaffMenu", "TeleportStaff", "Teleport", "Birthday", "Party", "Video", "Stage", "Signage", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Staff": [ "StaffMenu", "TeleportStaff", "Teleport", "Birthday", "Party", "Video", "Stage", "Signage", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
 			"Performer": ["Teleport", "Patron1", "StaffMenu", "Video", "Stage"],
 			"Patrons1": ["Teleport", "Patron1"],
 			"Patrons2": ["Teleport", "Patron1", "Patron2"],
@@ -97,6 +97,7 @@
 			"Mitton Toque" : "Patrons2",
 
 			"ceraso" : "Patrons1",
+			"Kryti_N": "Patrons1",
 			"NPC_L30N": "Patrons1"
 		}
 	}
