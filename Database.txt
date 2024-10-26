@@ -39,11 +39,11 @@
 		"Groups": {
 			"Admin": ["*"],
 			"Staff": [ "StaffMenu", "TeleportStaff", "Teleport", "Birthday", "Party", "Video", "Stage", "Signage", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
-			"Performer": ["Teleport", "Patron1", "StaffMenu", "Video", "Stage"],
-			"Patrons1": ["Teleport", "Patron1"],
-			"Patrons2": ["Teleport", "Patron1", "Patron2"],
-			"Patrons3": ["Teleport", "Patron1", "Patron2", "Patron3"],
-			"Patrons4": ["Teleport", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Performer": ["Teleport", "Patrons1", "Patron1", "StaffMenu", "Video", "Stage"],
+			"Patrons1": ["Teleport", "Patrons1", "Patron1"],
+			"Patrons2": ["Teleport", "Patrons1", "Patron1", "Patron2"],
+			"Patrons3": ["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3"],
+			"Patrons4": ["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
 			"Visitor": ["Teleport"]
 		},
 		"Users": {
