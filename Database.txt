@@ -92,7 +92,7 @@
 			"FrostMoonKnight": "Patrons3",
 			"RuanFox": "Patrons3",
 
-			"Jay_B19" : "Patrons2",
+			"Ruttlidge" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
 			"Mitton Toque" : "Patrons2",
 
