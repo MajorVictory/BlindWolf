@@ -9,7 +9,7 @@
 		"Stained Glass Prices Skyrocket, Driven by Blind Wolf's Owner DisZ",
 		"The Jewel of New Bork: Crystal Phallic Vanishes from The Barkopolitan Museum",
 			"Enchantress Whines Breaks a Dozen Hearts in a Single Night",
-		"Police Hunt for Smugglers Afevis and Robby Angel, Purveyors of Canadian Whisky",
+			"Police Hunt for Smugglers Afevis and Robby Angel, Purveyors of Canadian Whisky",
 		"Underworld Protégé Gry Gry Linked to String of Furniture Murders",
 		"Kainnaan, aka Meow Meow Walrus, Sinks Teeth into Speakeasy Scene",
 			"Major, Suspected Mastermind, Faces Allegations as New Bork's Underworld Architect",
@@ -54,7 +54,6 @@
 
 			"WonderinWendigo": "Staff",
 			"JaxFox": "Staff",
-			"Unexpected Item": "Staff",
 			"Roebuck": "Staff",
 			"Whines": "Staff",
 			"Afevis": "Staff",
@@ -69,7 +68,10 @@
 			"KitCaboodle": "Staff",
 			"Drakonal": "Staff",
 			"Melon-the-wolf": "Staff",
+			"Peaves": "Staff",
+			"SqueakyFeather": "Staff",
 
+			"Unexpected Item": "Patrons4",
 			"Certando" : "Patrons4",
 			"mavrickshuey" : "Patrons4",
 			"Magmatic" : "Patrons4",
@@ -84,6 +86,8 @@
 			"Quentin Coyote": "Patrons4",
 			"MrBunnyMango": "Patrons4",
 			"Auxl Wuffy": "Patrons4",
+			"TyraenTek": "Patrons4",
+			"krotusdarklord6": "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"Lord Tremor" : "Patrons3",
