@@ -79,7 +79,6 @@
 			"Geeknificent" : "Patrons4",
 			"OshionWolf" : "Patrons4",
 			"Rocki~" : "Patrons4",
-			"Selvakor" : "Patrons4",
 			"Sgt․Duck" : "Patrons4",
 			"MoonlightReq" : "Patrons4",
 			"Gunmaster929": "Patrons4",
@@ -88,9 +87,10 @@
 			"Auxl Wuffy": "Patrons4",
 			"TyraenTek": "Patrons4",
 			"krotusdarklord6": "Patrons4",
+			"RezWolfen": "Patrons4",
+			"Sascha~": "Patrons4",
 
 			"Feldrick" : "Patrons3",
-			"Lord Tremor" : "Patrons3",
 			"PlushiePotato": "Patrons3",
 			"FIEARtheWolfdog": "Patrons3",
 			"FrostMoonKnight": "Patrons3",
@@ -99,6 +99,7 @@
 			"Ruttlidge" : "Patrons2",
 			"WaywardPyre" : "Patrons2",
 			"Mitton Toque" : "Patrons2",
+			"GUARDOFLIF3": "Patrons2",
 
 			"ceraso" : "Patrons1",
 			"Kryti_N": "Patrons1",
