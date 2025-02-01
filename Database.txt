@@ -92,10 +92,10 @@
 			"mr_stormycloud": "Patrons4",
 			"Z33B3R": "Patrons4",
 			"Joey013": "Patrons4",
+			"FIEARtheWolfdog": "Patrons4",
 
 			"Feldrick" : "Patrons3",
 			"PlushiePotato": "Patrons3",
-			"FIEARtheWolfdog": "Patrons3",
 			"FrostMoonKnight": "Patrons3",
 			"RuanFox": "Patrons3",
 
