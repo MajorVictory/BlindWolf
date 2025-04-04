@@ -73,6 +73,8 @@
 			"Orange_Kream": "Staff",
 			"CillianWoulfe": "Staff",
 			"ceraso": "Staff",
+			"Z_E_P_H_Y_R": "Staff",
+			"RaxxtheCaribou": "Staff",
 
 			"Certando": "Patrons4",
 			"FIEARtheWolfdog": "Patrons4",
@@ -91,13 +93,13 @@
 			"TyraenTek": "Patrons4",
 			"Unexpected Item": "Patrons4",
 			"Z33B3R": "Patrons4",
-			"RaxxtheCaribou": "Patrons3",
-			"InterrobangTF2": "Patrons3",
 
+			"InterrobangTF2": "Patrons3",
 			"Feldrick": "Patrons3",
 			"FrostMoonKnight": "Patrons3",
 			"PlushiePotato": "Patrons3",
 			"RuanFox": "Patrons3",
+			"Roku_Sanda": "Patrons3",
 
 			"GUARDOFLIF3": "Patrons2",
 			"Mitton Toque": "Patrons2",
