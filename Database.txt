@@ -37,14 +37,15 @@
 	},
 	"Permissions": {
 		"Groups": {
-			"Admin": ["*"],
-			"Staff": [ "StaffMenu", "TeleportStaff", "Teleport", "Birthday", "Party", "Video", "Stage", "Signage", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
-			"Performer": ["Teleport", "Patrons1", "Patron1", "StaffMenu", "Video", "Stage"],
-			"Patrons1": ["Teleport", "Patrons1", "Patron1"],
-			"Patrons2": ["Teleport", "Patrons1", "Patron1", "Patron2"],
-			"Patrons3": ["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3"],
-			"Patrons4": ["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
-			"Visitor": ["Teleport"]
+			"Admin": 		["*"],
+			"Staff": 		["Teleport", "StaffMenu", "TeleportStaff", "Birthday", "Party", "Video", "Stage", "Signage", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Performer": 	["Teleport", "StaffMenu", "Video", "Stage", "Patrons1", "Patron1"],
+			"Performer4": 	["Teleport", "StaffMenu", "Video", "Stage", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Patrons1": 	["Teleport", "Patrons1", "Patron1"],
+			"Patrons2": 	["Teleport", "Patrons1", "Patron1", "Patron2"],
+			"Patrons3": 	["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3"],
+			"Patrons4": 	["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Visitor": 		["Teleport"]
 		},
 		"Users": {
 			"DisZ": "Admin",
@@ -52,10 +53,15 @@
 
 			"Aaron Ott": "Performer",
 			"Hopeful Allstar": "Performer",
-			"MercuryKitsune": "Performer",
+			"KibaKitsune": "Performer",
 			"Saschiba": "Performer",
 			"Senpai_Over": "Performer",
+			"Space Mage": "Performer",
 			"WANKU": "Performer",
+			"Ｆ Â Ｒ": "Performer",
+
+			"MercuryKitsune": "Performer4",
+			"Sgt․Duck" : "Performer4",
 
 			"Afevis": "Staff",
 			"Aro Poss": "Staff",
@@ -99,7 +105,6 @@
 			"RezWolfen": "Patrons4",
 			"Rocki~": "Patrons4",
 			"Sascha~": "Patrons4",
-			"Sgt․Duck" : "Patrons4",
 			"TyraenTek": "Patrons4",
 			"Unexpected Item": "Patrons4",
 			"Z33B3R": "Patrons4",
