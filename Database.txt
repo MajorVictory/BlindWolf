@@ -118,7 +118,7 @@
 
 			"GUARDOFLIF3": "Patrons2",
 			"Mitton Toque": "Patrons2",
-			"Ruttlidge": "Patrons2",
+			"Coe_Heeler": "Patrons2",
 			"WaywardPyre": "Patrons2",
 
 			"Kryti_N": "Patrons1",
