@@ -104,6 +104,7 @@
 			"Quentin Coyote": "Patrons4",
 			"RezWolfen": "Patrons4",
 			"Rocki~": "Patrons4",
+			"Sarryn": "Patrons4",
 			"Sascha~": "Patrons4",
 			"TyraenTek": "Patrons4",
 			"Unexpected Item": "Patrons4",
