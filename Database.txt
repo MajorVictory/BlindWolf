@@ -58,7 +58,7 @@
 			"Senpai_Over": "Performer",
 			"Space Mage": "Performer",
 			"WANKU": "Performer",
-			"Ｆ Â Ｒ": "Performer",
+			"F A R": "Performer",
 
 			"MercuryKitsune": "Performer4",
 			"Sgt․Duck" : "Performer4",
