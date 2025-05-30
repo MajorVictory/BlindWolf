@@ -91,6 +91,7 @@
 			"Z_E_P_H_Y_R": "Staff",
 			"~Shadow Slick~": "Staff",
 			"ㅁㅣNYXㅣㅁ": "Staff",
+			"Mavaura": "Staff",
 
 			"Certando": "Patrons4",
 			"FIEARtheWolfdog": "Patrons4",
