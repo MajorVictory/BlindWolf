@@ -51,6 +51,9 @@
 			"DisZ": "Admin",
 			"majorvictory": "Admin",
 
+			"MercuryKitsune": "Performer4",
+			"Sgt․Duck" : "Performer4",
+
 			"Aaron Ott": "Performer",
 			"Hopeful Allstar": "Performer",
 			"KibaKitsune": "Performer",
@@ -60,15 +63,13 @@
 			"WANKU": "Performer",
 			"F A R": "Performer",
 
-			"MercuryKitsune": "Performer4",
-			"Sgt․Duck" : "Performer4",
-
 			"Afevis": "Staff",
 			"Aro Poss": "Staff",
 			"ceraso": "Staff",
 			"CillianWoulfe": "Staff",
 			"Daddy Melon": "Staff",
 			"Drakonal": "Staff",
+			"Duo Vandal": "Staff",
 			"GryGry": "Staff",
 			"JaxFox": "Staff",
 			"Kainaan ღ": "Staff",
@@ -94,13 +95,10 @@
 			"~Shadow Slick~": "Staff",
 			"ㅁㅣNYXㅣㅁ": "Staff",
 
-			"Certando": "Patrons4",
 			"FIEARtheWolfdog": "Patrons4",
 			"Geeknificent": "Patrons4",
 			"Joey013": "Patrons4",
-			"krotusdarklord6": "Patrons4",
 			"Magmatic": "Patrons4",
-			"MoonlightReq": "Patrons4",
 			"mr_stormycloud": "Patrons4",
 			"ProtoMal": "Patrons4",
 			"Quentin Coyote": "Patrons4",
@@ -119,9 +117,10 @@
 			"Roku_Sanda": "Patrons3",
 			"RuanFox": "Patrons3",
 
+			"Coe_Heeler": "Patrons2",
 			"GUARDOFLIF3": "Patrons2",
 			"Mitton Toque": "Patrons2",
-			"Coe_Heeler": "Patrons2",
+			"SwooshyCueb": "Patrons2",
 			"WaywardPyre": "Patrons2",
 
 			"Kryti_N": "Patrons1",
