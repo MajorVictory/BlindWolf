@@ -65,11 +65,13 @@
 
 			"Afevis": "Staff",
 			"Aro Poss": "Staff",
+			"BrooksTheDoggo": "Staff",
 			"ceraso": "Staff",
 			"CillianWoulfe": "Staff",
 			"Daddy Melon": "Staff",
 			"Drakonal": "Staff",
 			"Duo Vandal": "Staff",
+			"DuoVandal": "Staff",
 			"GryGry": "Staff",
 			"JaxFox": "Staff",
 			"Kainaan ღ": "Staff",
