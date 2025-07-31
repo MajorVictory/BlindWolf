@@ -113,7 +113,6 @@
 			"Z33B3R": "Patrons4",
 
 			"Feldrick": "Patrons3",
-			"FrostMoonKnight": "Patrons3",
 			"InterrobangTF2": "Patrons3",
 			"PlushiePotato": "Patrons3",
 			"Roku_Sanda": "Patrons3",
@@ -126,7 +125,8 @@
 			"WaywardPyre": "Patrons2",
 
 			"Kryti_N": "Patrons1",
-			"NPC_L30N": "Patrons1"
+			"NPC_L30N": "Patrons1",
+			"CrayzeeChase": "Patrons1"
 		}
 	}
 }
