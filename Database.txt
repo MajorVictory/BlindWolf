@@ -62,6 +62,9 @@
 			"Space Mage": "Performer",
 			"WANKU": "Performer",
 			"F A R": "Performer",
+			"playboybunny": "Performer",
+			"Raziell FM": "Performer",
+			"~BigSage~": "Performer",
 
 			"Afevis": "Staff",
 			"Aro Poss": "Staff",
