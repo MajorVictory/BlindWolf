@@ -65,6 +65,8 @@
 			"playboybunny": "Performer",
 			"Raziell FM": "Performer",
 			"~BigSage~": "Performer",
+			"Tadashi_24": "Performer",
+			"MADDSUN": "Performer",
 
 			"Afevis": "Staff",
 			"Aro Poss": "Staff",
