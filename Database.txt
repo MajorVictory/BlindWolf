@@ -73,7 +73,7 @@
 			"BrooksTheDoggo": "Staff",
 			"ceraso": "Staff",
 			"CillianWoulfe": "Staff",
-			"Daddy Melon": "Staff",
+			"Melon The Wolf": "Staff",
 			"Drakonal": "Staff",
 			"Duo Vandal": "Staff",
 			"DuoVandal": "Staff",
