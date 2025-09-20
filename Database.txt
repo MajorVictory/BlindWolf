@@ -116,6 +116,7 @@
 			"TyraenTek": "Patrons4",
 			"Unexpected Item": "Patrons4",
 			"Z33B3R": "Patrons4",
+			"Zealotemplar77": "Patrons4",
 
 			"Feldrick": "Patrons3",
 			"InterrobangTF2": "Patrons3",
