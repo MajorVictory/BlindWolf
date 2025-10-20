@@ -41,7 +41,6 @@
 			"BrooksTheDoggo": "Staff",
 			"ceraso": "Staff",
 			"CillianWoulfe": "Staff",
-			"Drakonal": "Staff",
 			"Duo Vandal": "Staff",
 			"DuoVandal": "Staff",
 			"JaxFox": "Staff",
