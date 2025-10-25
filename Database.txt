@@ -91,6 +91,7 @@
 			"GUARDOFLIF3": "Patrons2",
 			"SwooshyCueb": "Patrons2",
 			"WaywardPyre": "Patrons2",
+			"TheAshenTang": "Patrons2",
 
 			"Kryti_N": "Patrons1",
 			"NPC_L30N": "Patrons1",
