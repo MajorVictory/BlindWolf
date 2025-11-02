@@ -35,6 +35,7 @@
 			"WANKU": "Performer",
 			"~BigSage~": "Performer",
 			"ŤÅÐÄŚHĨ": "Performer",
+			"Zale_": "Performer",
 
 			"Afevis": "Staff",
 			"Aro Poss": "Staff",
