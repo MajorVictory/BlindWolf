@@ -77,6 +77,7 @@
 			"Magmatic": "Patrons3",
 			"Mitton Toque": "Patrons3",
 			"mr_stormycloud": "Patrons3",
+			"NSFWolves": "Patrons3",
 			"PlushiePotato": "Patrons3",
 			"Quentin Coyote": "Patrons3",
 			"Roku_Sanda": "Patrons3",
