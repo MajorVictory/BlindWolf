@@ -52,6 +52,9 @@
 			"Xanaecor": "Staff",
 			"Z_E_P_H_Y_R": "Staff",
 			"ㅁㅣNYXㅣㅁ": "Staff",
+			"computerman_": "Staff",
+			"Beavzor": "Staff",
+			"StarKeeper76": "Staff",
 
 			"F A R": "Performer",
 			"Hopeful Allstar": "Performer",
