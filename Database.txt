@@ -22,7 +22,6 @@
 			"majorvictory": "Admin",
 
 			"Afevis": "Staff",
-			"Aro Poss": "Staff",
 			"Beavzor": "Staff",
 			"BrooksTheDoggo": "Staff",
 			"ceraso": "Staff",
@@ -95,6 +94,7 @@
 
 			"Coe_Heeler": "Patrons2",
 			"GUARDOFLIF3": "Patrons2",
+			"Rail_Dawg": "Patrons2",
 			"SwooshyCueb": "Patrons2",
 			"TheAshenTang": "Patrons2",
 			"WaywardPyre": "Patrons2",
