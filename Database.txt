@@ -100,6 +100,7 @@
 			"WaywardPyre": "Patrons2",
 
 			"Kryti_N": "Patrons1",
+			"KuraiDarkrai": "Patrons1",
 			"NPC_L30N": "Patrons1"
 		}
 	}
