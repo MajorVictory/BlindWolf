@@ -1,10 +1,4 @@
 {
-	"Headlines": [],
-	"Custom Headline": "",
-	"World Toggles": {
-		"Birthday": false,
-		"Party": false
-	},
 	"Permissions": {
 		"Groups": {
 			"Admin": 		["*"],
@@ -72,6 +66,7 @@
 			"ŤÅÐÄŚHĨ": "Performer",
 
 			"CrayzeeChase": "Patrons3",
+			"Drakonal": "Patrons3",
 			"Feldrick": "Patrons3",
 			"FIEARtheWolfdog": "Patrons3",
 			"Geeknificent": "Patrons3",
@@ -103,5 +98,11 @@
 			"KuraiDarkrai": "Patrons1",
 			"NPC_L30N": "Patrons1"
 		}
+	},
+	"Headlines": [],
+	"Custom Headline": "",
+	"World Toggles": {
+		"Birthday": false,
+		"Party": false
 	}
 }
