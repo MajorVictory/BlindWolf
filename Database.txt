@@ -51,18 +51,13 @@
 			"ㅁㅣNYXㅣㅁ": "Staff",
 
 			"F A R": "Performer",
-			"Hopeful Allstar": "Performer",
 			"KibaKitsune": "Performer",
 			"MADDSUN": "Performer",
 			"playboybunny": "Performer",
-			"Raziell FM": "Performer",
 			"Saschiba": "Performer",
 			"Senpai_Over": "Performer",
 			"Sgt․Duck" : "Performer4",
-			"Space Mage": "Performer",
 			"WANKU": "Performer",
-			"Zale_": "Performer",
-			"Sage2Chill": "Performer",
 			"ŤÅÐÄŚHĨ": "Performer",
 
 			"CrayzeeChase": "Patrons3",
