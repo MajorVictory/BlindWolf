@@ -61,7 +61,6 @@
 			"ʕ˖ᴥ˖ʔ sᴛᴀʀᴘᴀᴡᴢ": "Performer",
 
 			"CrayzeeChase": "Patrons3",
-			"Drakonal": "Patrons3",
 			"Feldrick": "Patrons3",
 			"Geeknificent": "Patrons3",
 			"Magmatic": "Patrons3",
@@ -77,7 +76,7 @@
 			"Z33B3R": "Patrons3",
 			"Zealotemplar77": "Patrons3",
 
-			"Coe_Heeler": "Patrons2",
+			"Diesel-Tiger": "Patrons2",
 			"Rail_Dawg": "Patrons2",
 			"SwooshyCueb": "Patrons2",
 			"TheAshenTang": "Patrons2",
