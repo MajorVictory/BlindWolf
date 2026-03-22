@@ -52,7 +52,7 @@
 			"Drakonal": "Performer",
 			"KibaKitsune": "Performer",
 			"MADDSUN": "Performer",
-			"Mutty_": "Performer",
+			"Mutty®": "Performer",
 			"playboybunny": "Performer",
 			"Sgt․Duck" : "Performer4",
 			"WANKU": "Performer",
