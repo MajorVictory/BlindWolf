@@ -32,6 +32,7 @@
 			"MercuryKitsune": "Staff",
 			"MinTea Tanuki": "Staff",
 			"MissAlyKatt": "Staff",
+			"Mr․Rubinshtein": "Staff",
 			"Orange_Kream": "Staff",
 			"Outcast1001": "Staff",
 			"Oxbloodxxx": "Staff",
@@ -70,6 +71,7 @@
 			"Sarryn": "Patrons3",
 			"TyraenTek": "Patrons3",
 			"Unexpected Item": "Patrons3",
+			"whoisallo": "Patrons3",
 			"Z33B3R": "Patrons3",
 			"Zealotemplar77": "Patrons3",
 
