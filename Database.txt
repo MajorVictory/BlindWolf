@@ -44,7 +44,9 @@
 			"Sweet Secret": "Staff",
 			"WonderinWendigo": "Staff",
 			"Xanaecor": "Staff",
+			"Yrre Brightstar": "Staff",
 			"Z_E_P_H_Y_R": "Staff",
+			"ZeroSpidox": "Staff",
 
 			"Drakonal": "Performer",
 			"Mutty®": "Performer",
