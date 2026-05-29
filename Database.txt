@@ -25,7 +25,6 @@
 			"Galaa": "Staff",
 			"JaxFox": "Staff",
 			"KibaKitsune": "Staff",
-			"KitCaboodle": "Staff",
 			"Kurtsa": "Staff",
 			"Mavaura": "Staff",
 			"Melon The Wolf": "Staff",
@@ -49,13 +48,14 @@
 			"ZeroSpidox": "Staff",
 
 			"Drakonal": "Performer",
-			"Mutty®": "Performer",
 			"playboybunny": "Performer",
 			"Sgt․Duck" : "Performer4",
 			"WANKU": "Performer",
 			"~Angiethekirin~": "Performer",
 			"ŤÅÐÄŚHĨ": "Performer",
 			"ʕ˖ᴥ˖ʔ sᴛᴀʀᴘᴀᴡᴢ": "Performer",
+			"Az﮴i": "Performer",
+
 
 			"CrayzeeChase": "Patrons3",
 			"Feldrick": "Patrons3",
