@@ -16,6 +16,7 @@
 			"majorvictory": "Admin",
 
 			"Afevis": "Staff",
+			"Bagara": "Staff",
 			"Beavzor": "Staff",
 			"BrooksTheDoggo": "Staff",
 			"ceraso": "Staff",
@@ -33,7 +34,6 @@
 			"MinTea Tanuki": "Staff",
 			"MissAlyKatt": "Staff",
 			"Mr․Rubinshtein": "Staff",
-			"Orange_Kream": "Staff",
 			"Outcast1001": "Staff",
 			"Oxbloodxxx": "Staff",
 			"RaxxtheCaribou": "Staff",
