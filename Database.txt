@@ -2,13 +2,13 @@
 	"Permissions": {
 		"Groups": {
 			"Admin": 		["*"],
-			"Staff": 		["Teleport", "StaffMenu", "TeleportStaff", "Birthday", "Party", "Video", "Stage", "Signage", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
-			"Performer": 	["Teleport", "StaffMenu", "Video", "Stage", "Patrons1", "Patron1"],
-			"Performer4": 	["Teleport", "StaffMenu", "Video", "Stage", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
-			"Patrons1": 	["Teleport", "Patrons1", "Patron1"],
-			"Patrons2": 	["Teleport", "Patrons1", "Patron1", "Patron2"],
-			"Patrons3": 	["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3"],
-			"Patrons4": 	["Teleport", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Staff": 		["StaffMenu", "TeleportStaff", "Teleport", "Birthday", "Party", "Video", "Stage", "Signage", "Patrons", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Performer": 	["StaffMenu", "TeleportStaff", "Teleport", "Video", "Stage", "Patrons", "Patrons1", "Patron1"],
+			"Performer4": 	["StaffMenu", "TeleportStaff", "Teleport", "Video", "Stage", "Patrons", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4"],
+			"Patrons1": 	["Patrons", "Patrons1", "Patron1", "Teleport"],
+			"Patrons2": 	["Patrons", "Patrons1", "Patron1", "Patron2", "Teleport"],
+			"Patrons3": 	["Patrons", "Patrons1", "Patron1", "Patron2", "Patron3", "Teleport"],
+			"Patrons4": 	["Patrons", "Patrons1", "Patron1", "Patron2", "Patron3", "Patron4", "Teleport"],
 			"Visitor": 		["Teleport"]
 		},
 		"Users": {
@@ -55,7 +55,7 @@
 			"ŤÅÐÄŚHĨ": "Performer",
 			"ʕ˖ᴥ˖ʔ sᴛᴀʀᴘᴀᴡᴢ": "Performer",
 			"Az﮴i": "Performer",
-
+			"Tadashi_vrc": "Performer",
 
 			"CrayzeeChase": "Patrons3",
 			"Feldrick": "Patrons3",
